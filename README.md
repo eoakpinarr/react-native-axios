@@ -1,2 +1,2 @@
-# proje01
+# proje
  
